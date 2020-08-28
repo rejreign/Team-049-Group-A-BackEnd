@@ -1,3 +1,5 @@
+"use strict";
+
 exports.renderData = (req, res) => {
   res.json({
     status: "success",
